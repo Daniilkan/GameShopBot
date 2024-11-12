@@ -9,7 +9,7 @@ import asyncio
 import main
 
 pay_photo = 'template.jpg'
-#p2p = QiwiP2P(auth_key="GH7879hhgiTTFYN6826")
+#p2p = QiwiP2P(auth_key="")
 global prodName
 
 def billmake(price: int, name: str):
